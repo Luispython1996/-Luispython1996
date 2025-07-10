@@ -1,7 +1,8 @@
 <!-- Banner de cabecera -->
 <p align="center">
-  <img src="https://github.com/Luispython1996/Luispython1996/blob/main/banner.png?raw=true" alt="banner" width="100%" />
+  <img src="banner.png" alt="Banner de Luis O. Silva" width="100%">
 </p>
+
 
 <!-- Título principal -->
 # -Luispython1996
