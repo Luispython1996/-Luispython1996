@@ -1,6 +1,6 @@
 <!-- Banner de cabecera -->
 <p align="center">
-  <img src="banner.png" alt="Banner de Luis O. Silva" width="100%">
+  <img src="Banner.png" alt="Banner de Luis O. Silva" width="100%">
 </p>
 
 
