@@ -5,7 +5,7 @@
 
 
 <!-- Título principal -->
-# -Luispython1996
+# Luispython1996
 
 <h1 align="center">Hi, I'm Luis O. Silva 👋</h1>
 <h3 align="center">Data Scientist | Python | SQL | BI | Machine Learning | E-commerce & Financial Analytics</h3>
