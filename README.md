@@ -1,61 +1,64 @@
 <p align="center">
-  <img src="Banner.png" alt="Luis O. Silva - Data Scientist" width="100%">
+  <img src="https://raw.githubusercontent.com/Luispython1996/Luispython1996/main/Banner.png" alt="Luis Silva - Data Scientist" width="100%">
 </p>
 
-<h1 align="center">¡Hola! I'm Luis O. Silva 👨‍💻</h1>
-<h3 align="center">Data Scientist | Python & SQL Expert | BI Developer</h3>
+<h1 align="center">¡Hola! Soy Luis Osvaldo Silva Orozco 👨‍💻</h1>
+<h3 align="center">Científico de Datos | Especialista en Python & SQL | Desarrollador BI</h3>
 
 ---
 
-### 🔥 What I Bring to the Table
-- 📊 **Data-to-Decisions**: Transforming raw data into strategic insights
-- 🤖 **ML Specialist**: Building predictive models for business outcomes
-- 🛒 **E-commerce Focus**: Optimizing digital sales funnels and customer journeys
-- 💰 **Financial Acumen**: Accounting background + data science = unique perspective
+## 🔥 Mi Stack Tecnológico
+
+**🧰 Principales Tecnologías**  
+`Python` (Pandas, NumPy, Scikit-learn) | `SQL` | `Power BI` | `Tableau`  
+`Machine Learning` | `Análisis Estadístico` | `Visualización de Datos`
+
+**🏆 Certificaciones**  
+▸ IBM Data Science Professional  
+▸ Google Data Analytics  
+▸ Bootcamp de Ciencia de Datos - TripleTen  
 
 ---
 
-### 🛠️ Core Technologies
+## 📌 Proyectos Destacados
 
-**Data Science Stack**  
-`Python` (Pandas, NumPy, Scikit-learn) | `SQL` (BigQuery, PostgreSQL) | `PySpark`  
-`Power BI` | `Tableau` | `Matplotlib/Seaborn` | `Git/GitHub`  
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [Predicción de Churn Bancario](https://github.com/Luispython1996/beta-bank-churn) | Modelo predictivo para reducir abandono de clientes | Python, XGBoost |
+| [Dashboard BI para E-commerce](https://github.com/Luispython1996/ecommerce-bi-dashboard) | Análisis interactivo de ventas | Power BI, DAX |
+| [Análisis de Producción Petrolera](https://github.com/Luispython1996/oil-production-analysis) | Optimización de ROI en perforación | Pandas, Bootstrap |
 
-**Domain Expertise**  
-▸ Predictive Analytics ▸ Customer Churn ▸ Price Optimization  
-▸ E-commerce Analytics ▸ Financial Modeling ▸ A/B Testing
-
----
-
-### 🏆 Featured Projects
-
-| Project | Description | Tech Used |
-|---------|------------|-----------|
-| [Bank Churn Prediction](https://github.com/luispython1996/beta-bank-churn) | Reduced customer attrition by 22% through predictive modeling | XGBoost, SHAP |
-| [Oil ROI Optimizer](https://github.com/luispython1996/oil-production-analysis) | Increased drilling ROI by 18% using bootstrap analysis | Pandas, SciPy |
-| [E-commerce BI Dashboard](https://github.com/luispython1996/ecommerce-bi-dashboard) | Real-time sales tracking with drill-down capabilities | Power BI, DAX |
-
-> 🔍 [Explore all projects →](https://github.com/luispython1996?tab=repositories)
+[➡ Ver todos los proyectos](https://github.com/Luispython1996?tab=repositories)
 
 ---
 
-### 📊 GitHub Metrics
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luispython1996&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luispython1996&theme=dark" alt="GitHub Streak" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luispython1996&show_icons=true&theme=dark&locale=es" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luispython1996&layout=compact&theme=dark&locale=es" width="45%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luispython1996&theme=github-dark&locale=es" width="90%">
 </p>
 
 ---
 
-### 📬 Let's Collaborate!
-
-I'm actively seeking remote opportunities with innovative teams. Let's discuss how data can drive your business forward:
-
-- 📧 **Email**: [luisosvsilva@gmail.com](mailto:luisosvsilva@gmail.com)  
-- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/luis-o-silva-5424a91a2/)  
-- 📱 **WhatsApp**: (+52) 5583-601-074
+## 📫 Contacto
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luispython1996&label=Profile+Views&color=blueviolet" alt="Profile Views">
+  <a href="mailto:luisosvsilva@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/luis-o-silva-5424a91a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://wa.me/525583601074">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Luispython1996&label=Profile+Views&color=blueviolet" alt="Visitas al perfil">
 </p>
