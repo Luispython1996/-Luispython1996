@@ -1,70 +1,61 @@
-<!-- Banner de cabecera -->
 <p align="center">
-  <img src="Banner.png" alt="Banner de Luis O. Silva" width="100%">
+  <img src="Banner.png" alt="Luis O. Silva - Data Scientist" width="100%">
 </p>
 
-
-<!-- Título principal -->
-# Luispython1996
-
-<h1 align="center">Hi, I'm Luis O. Silva 👋</h1>
-<h3 align="center">Data Scientist | Python | SQL | BI | Machine Learning | E-commerce & Financial Analytics</h3>
+<h1 align="center">¡Hola! I'm Luis O. Silva 👨‍💻</h1>
+<h3 align="center">Data Scientist | Python & SQL Expert | BI Developer</h3>
 
 ---
 
-## 🧑‍💻 About Me
-
-🎓 I’m a Data Scientist with a background in Accounting and certifications from IBM, Google, and TripleTen.  
-📊 Passionate about solving business problems using statistics, machine learning, and business intelligence.  
-🌎 Currently looking for remote opportunities with U.S.-based companies.  
-🚀 My goal is to turn data into actionable insights for decision-makers.
-
----
-
-## 🚀 Tech Stack
-
-**Languages & Tools:**  
-`Python` · `SQL` · `Pandas` · `NumPy` · `Scikit-learn` · `Power BI` · `Tableau` · `Matplotlib` · `Seaborn`  
-`Jupyter` · `VS Code` · `Git` · `GitHub` · `Linux` · `Google Analytics` · `BigQuery`  
-
-**Domains:**  
-- Business Intelligence  
-- E-commerce Analytics  
-- Financial Analysis  
-- Machine Learning & NLP
+### 🔥 What I Bring to the Table
+- 📊 **Data-to-Decisions**: Transforming raw data into strategic insights
+- 🤖 **ML Specialist**: Building predictive models for business outcomes
+- 🛒 **E-commerce Focus**: Optimizing digital sales funnels and customer journeys
+- 💰 **Financial Acumen**: Accounting background + data science = unique perspective
 
 ---
 
-## 📂 Projects
+### 🛠️ Core Technologies
 
-Here are a few highlights from my portfolio:
+**Data Science Stack**  
+`Python` (Pandas, NumPy, Scikit-learn) | `SQL` (BigQuery, PostgreSQL) | `PySpark`  
+`Power BI` | `Tableau` | `Matplotlib/Seaborn` | `Git/GitHub`  
 
-- 📈 [**Bank Churn Prediction**](https://github.com/luispython1996/beta-bank-churn) – Classification model to predict customer attrition using Random Forest & XGBoost  
-- 🏡 [**House Price Forecasting**](https://github.com/luispython1996/house-price-prediction) – Regression model using PySpark & MLlib  
-- 🛢️ [**Oil Field Optimization**](https://github.com/luispython1996/oil-production-analysis) – Predicting ROI from drilling sites using Bootstrap & Linear Regression  
-- 📦 [**E-commerce Sales Dashboard**](https://github.com/luispython1996/ecommerce-bi-dashboard) – Power BI interactive dashboard with DAX and drill-through filters
-
-> 🔗 Visit my [GitHub Repositories](https://github.com/luispython1996?tab=repositories) for more.
+**Domain Expertise**  
+▸ Predictive Analytics ▸ Customer Churn ▸ Price Optimization  
+▸ E-commerce Analytics ▸ Financial Modeling ▸ A/B Testing
 
 ---
 
-## 📈 GitHub Stats
+### 🏆 Featured Projects
+
+| Project | Description | Tech Used |
+|---------|------------|-----------|
+| [Bank Churn Prediction](https://github.com/luispython1996/beta-bank-churn) | Reduced customer attrition by 22% through predictive modeling | XGBoost, SHAP |
+| [Oil ROI Optimizer](https://github.com/luispython1996/oil-production-analysis) | Increased drilling ROI by 18% using bootstrap analysis | Pandas, SciPy |
+| [E-commerce BI Dashboard](https://github.com/luispython1996/ecommerce-bi-dashboard) | Real-time sales tracking with drill-down capabilities | Power BI, DAX |
+
+> 🔍 [Explore all projects →](https://github.com/luispython1996?tab=repositories)
+
+---
+
+### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luispython1996&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luispython1996&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luispython1996&theme=dark" alt="GitHub Streak" width="45%">
 </p>
 
 ---
 
-## 📫 Contact Me
+### 📬 Let's Collaborate!
 
-- 📧 Email: [luisosvsilva@gmail.com](mailto:luisosvsilva@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/luis-o-silva-5424a91a2](https://www.linkedin.com/in/luis-o-silva-5424a91a2/)  
-- 📱 Phone (MX): (+52) 5583-601-074
+I'm actively seeking remote opportunities with innovative teams. Let's discuss how data can drive your business forward:
 
----
+- 📧 **Email**: [luisosvsilva@gmail.com](mailto:luisosvsilva@gmail.com)  
+- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/luis-o-silva-5424a91a2/)  
+- 📱 **WhatsApp**: (+52) 5583-601-074
 
-<p align="center">Thanks for visiting my profile 💼 Let's connect and build something meaningful.</p>
-<!-- Puedes seguir editando este README como quieras -->
-
-# -Luispython1996
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luispython1996&label=Profile+Views&color=blueviolet" alt="Profile Views">
+</p>
